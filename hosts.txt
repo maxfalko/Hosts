@@ -7,3 +7,4 @@
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
 127.0.0.1 yandex.ru
+127.0.0.1 eastical.info
