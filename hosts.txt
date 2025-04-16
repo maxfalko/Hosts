@@ -9,3 +9,4 @@
 127.0.0.1 yandex.ru
 127.0.0.1 eastical.info
 127.0.0.1 bonusplay.biz.ua
+127.0.0.1 ua.bonusplay.biz.ua
